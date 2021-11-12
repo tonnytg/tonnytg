@@ -7,6 +7,12 @@
 
 ```
     Relevant Projects:
+    
+        name: OpenAI Talk
+        language: Go
+        url:
+        sourceCode: https://github.com/tonnytg/talk2me
+    
         name: Web To Do List
         languages: JavaScript
         url: https://tarefasdodia.com.br/
@@ -21,6 +27,7 @@
         languages: Go
         url:
         sourceCode: https://github.com/tonnytg/gptm
+        
 ```
   
 <!---
