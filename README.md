@@ -5,9 +5,15 @@
 - 📫 How to contact me tonnytg@gmail.com
 
 🌱 *Learning:*
--  I’m currently learning Go, React and Design Patterns ...
-   C
-   Go
+-  I’m currently learning Go, React and Design Patterns ...<br/>
+Must momments learning.<br/>
+   <br/>C
+   <br/>C++   
+   <br/>Go
+   <br/>Cloud
+   <br/>Scripting
+   <br/>Algorithms
+
 
 📚 *School:*
 -  Study at 42sp best school <br/>
