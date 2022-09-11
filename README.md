@@ -5,7 +5,13 @@
 - 📫 How to contact me tonnytg@gmail.com
 
 🌱 *Learning:*
--  I’m currently learning C, Go, ReactJS and Design Patterns ...<br/>
+-  I’m currently learning C, Go, ReactJS and Design Patterns ...
+
+
+📌 *Pinned:*
+- Projects pinned means, Thit is where I'm currently working!
+
+<br/>
 <!---
 tonnytg/tonnytg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
