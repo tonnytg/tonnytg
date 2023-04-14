@@ -1,12 +1,11 @@
 *About Me:*
-- 👋 Hi, I’m Antonio but in the internet you can find me by @tonnytg
-- 👀 I’m interested in Full Cycle and DevOps
+- 👋 Hi, I’m Antonio Thomacelli
+- 👀 I’m interested in Full Cycle Development and DevOps
 - 💞️ I’m looking to collaborate on Kubernetes, HELM, Istio, or Go Projects ...
-- 📫 How to contact me tonnytg@gmail.com
+- 📫 How to contact me antoniothomacelli@gmail.com
 
 🌱 *Learning:*
--  I’m currently learning C, Go, ReactJS and Design Patterns ...
-
+-  I’m currently learning C, Go, ReactJS and Software Architecture ...
 
 📌 *Pinned:*
 - Projects pinned means, Thit is where I'm currently working!
