@@ -8,7 +8,7 @@
 -  I’m currently learning C, Go, ReactJS and Software Architecture ...
 
 📌 *Pinned:*
-- Projects pinned means, Thit is where I'm currently working!
+- Projects pinned means, This is where I'm currently working!
 
 <br/>
 <!---
