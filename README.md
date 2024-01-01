@@ -1,3 +1,9 @@
+*Targets for 2024:*
+- Machine Learning and Generative AI
+- LLM for Cloud Automations
+- VR Interface with Unreal Engine
+- AR interface for Meta Quest 3
+
 *About Me:*
 - 👋 Hi, I’m Antonio Thomacelli
 - 👀 I’m interested in Full Cycle Development and DevOps
