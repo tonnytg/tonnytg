@@ -25,16 +25,16 @@ I'm Antonio Thomacelli, a passionate developer focused on **Full Cycle Developme
 - Machine Learning and LLM
 - VR/AR Interface for Meta Quest 3
 
-
-### 📌 Pinned Projects
-- The projects pinned below highlight what I’m currently working on and showcase my skills.
-
 ### 🏆 Certifications
 - 🥇 **AWS Practitioner** – Cloud SysAdmin
 - 🥇 **Linux LPIC-1** – Linux SysAdmin
 - 🥇 **Linux LPIC-2** – Linux Architect
 - 🥇 **Hashicorp Terraform** – Infrastructure as Code (IaC)
 - 🥇 **TensorFlow** – Neural Network Builder
+
+
+### 📌 Pinned Projects
+- The projects pinned below highlight what I’m currently working on and showcase my skills.
 
 ---
 
