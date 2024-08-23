@@ -1,20 +1,45 @@
-*new Topics to Study:*
+# 🌟 Antonio Thomacelli
+
+### 👋 Hi there!
+I'm Antonio Thomacelli, a passionate developer focused on **Full Cycle Development** and **DevOps**.
+
+### 🚀 About Me
+- 👀 I’m particularly interested in projects related to Kubernetes, HELM, Istio, and Go.
+- 💼 I’m looking to collaborate on innovative and challenging projects.
+- 📫 Feel free to reach out to me at: [antoniothomacelli@gmail.com](mailto:antoniothomacelli@gmail.com)
+
+### 🌱 Currently Learning
+- C
+- Go
+- React
+- Software Architecture
+
+### ⚒️ Tools
+- Backstage (Frontend)
+- Crossplane (Backend IaC)
+- Terraform (Backend IaC)
+- Kubernetes and Operators (Os)
+- Microservices
+
+### 🧠 New Topics to Study
 - Machine Learning and LLM
 - VR/AR Interface for Meta Quest 3
 
-*About Me:*
-- 👋 Hi, I’m Antonio Thomacelli
-- 👀 I’m interested in Full Cycle Development and DevOps
-- 💞️ I’m looking to collaborate on Kubernetes, HELM, Istio, or Go Projects ...
-- 📫 How to contact me antoniothomacelli@gmail.com
 
-🌱 *Learning:*
--  I’m currently learning C, Go, ReactJS and Software Architecture ...
+### 📌 Pinned Projects
+- The projects pinned below highlight what I’m currently working on and showcase my skills.
 
-📌 *Pinned:*
-- Projects pinned means, This is where I'm currently working!
+### 🏆 Certifications
+- 🥇 **AWS Practitioner** – Cloud SysAdmin
+- 🥇 **Linux LPIC-1** – Linux SysAdmin
+- 🥇 **Linux LPIC-2** – Linux Architect
+- 🥇 **Hashicorp Terraform** – Infrastructure as Code (IaC)
+- 🥇 **TensorFlow** – Neural Network Builder
 
-<br/>
+---
+
+Thanks for stopping by! ✨
+
 <!---
 tonnytg/tonnytg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
