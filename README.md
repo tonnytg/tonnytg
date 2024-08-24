@@ -13,6 +13,7 @@ I'm Antonio Thomacelli, a passionate developer focused on **Full Cycle Developme
 - Go
 - React
 - Software Architecture
+- Google Cloud Provider
 
 ### ⚒️ Tools
 - Backstage (Frontend)
