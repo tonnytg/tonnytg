@@ -29,7 +29,7 @@ I'm Antonio Thomacelli, a passionate developer focused on **Full Cycle Developme
 ### 🏆 Certifications
 - 🥇 **AWS Practitioner** – Cloud SysAdmin
 - 🥇 **Linux LPIC-1** – Linux SysAdmin
-- 🥇 **Linux LPIC-2** – Linux Architect
+- 🥇 **Linux LPIC-2** – Linux Engineer
 - 🥇 **Hashicorp Terraform** – Infrastructure as Code (IaC)
 - 🥇 **TensorFlow** – Neural Network Builder
 
