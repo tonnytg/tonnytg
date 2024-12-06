@@ -16,10 +16,13 @@ I'm Antonio Thomacelli, a passionate developer focused on **Full Cycle Developme
 - Google Cloud Provider
 
 ### ⚒️ Tools
-- Backstage (Frontend)
-- Crossplane (Backend IaC)
-- Terraform (Backend IaC)
-- Kubernetes and Operators (Os)
+- Backstage for IDP
+- Crossplane for Cloud Resources
+- Terraform for Cloud Deploy
+- Kubernetes and Operators
+
+### Architectures
+- Serverless
 - Microservices
 
 ### 🧠 New Topics to Study
