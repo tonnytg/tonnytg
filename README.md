@@ -1,33 +1,32 @@
 # 🌟 Antonio Thomacelli
 
 ### 👋 Hi there!
-I'm Antonio Thomacelli, a passionate developer focused on **Full Cycle Development** and **DevOps**.
+I'm Antonio Thomacelli, a passionate **Software Engineer** focused on **Full Cycle Development** and **DevOps**.
+This means the creates the code and building all integrating tooling this code needs to deploy to the client.
 
 ### 🚀 About Me
-- 👀 I’m particularly interested in projects related to Kubernetes, HELM, Istio, and Go.
+- 👀 I’m particularly interested in projects like Kubernetes, HELM, Istio, and Go.
 - 💼 I’m looking to collaborate on innovative and challenging projects.
 - 📫 Feel free to reach out to me at: [antoniothomacelli@gmail.com](mailto:antoniothomacelli@gmail.com)
 
-### 🌱 Currently Learning
-- C
+### 🧰 Stack
+- C, C++
 - Go
-- React
-- Software Architecture
+- React JS
 - Google Cloud Provider
 
 ### ⚒️ Tools
 - Backstage for IDP
 - Crossplane for Cloud Resources
-- Terraform for Cloud Deploy
 - Kubernetes and Operators
 
-### Architectures
-- Serverless
+### 🏗️ Architectures
 - Microservices
 
-### 🧠 New Topics to Study
-- Machine Learning and LLM
-- VR/AR Interface for Meta Quest 3
+### 🎓 Roles
+- Software Engineer
+- Cloud Architect
+- Platform Engineer
 
 ### 🏆 Certifications
 - 🥇 **AWS Practitioner** – Cloud SysAdmin
