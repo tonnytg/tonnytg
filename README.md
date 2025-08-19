@@ -1,27 +1,28 @@
-# 🌟 Antonio Thomacelli
+### Antonio Thomacelli
+***Software Engineer | Cloud & Full Stack Consultant***
+I’m a software engineer with 15+ years of experience helping companies design, build, and scale digital products.
+As a consultant (PJ), I focus on delivering end-to-end solutions, from backend and frontend development to cloud infrastructure and automation.
 
-### 👋 Hi there!
-I'm Antonio Thomacelli, a **Software Engineer** 
-I love to use Go and React with Tailwind to build tools.
+### My expertise includes:
+- ***Backend & Infrastructure:*** Go, PostgreSQL, Docker Compose, Kubernetes, Terraform, AWS & GCP
+- ***Frontend & UX:*** React, TypeScript, Tailwind
+- ***AI & Data:*** TensorFlow for building and training custom models
+- I combine technical depth with a business-oriented mindset, ensuring fast delivery, maintainability, and cost efficiency.
 
-### 🚀 About Me
-- 👀 I’m particularly interested in projects like Kubernetes, HELM, Istio, and Go.
-- 💼 I’m looking to collaborate on innovative and challenging projects.
-- 📫 Feel free to reach out to me at: [antoniothomacelli@gmail.com](mailto:antoniothomacelli@gmail.com)
+### 🔍 ***Services & Interests***
+Cloud-native architecture design (Kubernetes, Helm, Istio)
+Infrastructure as Code & automation pipelines
+Full stack development with Go + React
+AI solutions with TensorFlow
+Consulting for companies seeking scalability and modernization
+📫 ***Let’s connect: antoniothomacelli@gmail.com***
 
-### 🧰 Stack
-- C, C++
-- Go
-- React JS
-- Google Cloud Provider
+### 🏆 ***Certifications***
+- AWS Practitioner – Cloud SysAdmin
+- Linux LPIC-1 – Linux SysAdmin
+- Linux LPIC-2 – Linux Engineer
+- HashiCorp Terraform – Infrastructure as Code (IaC)
+- TensorFlow – Neural Network Builder
 
-### 🏆 Certifications
-- 🥇 **AWS Practitioner** – Cloud SysAdmin
-- 🥇 **Linux LPIC-1** – Linux SysAdmin
-- 🥇 **Linux LPIC-2** – Linux Engineer
-- 🥇 **Hashicorp Terraform** – Infrastructure as Code (IaC)
-- 🥇 **TensorFlow** – Neural Network Builder
-
-
-### 📌 Pinned Projects
-- The projects pinned below highlight what I’m currently working on and showcase my skills.
+### 📌 ***Pinned Projects***
+Here you’ll find projects that demonstrate my work in cloud consulting, software engineering, and AI development, reflecting how I approach real-world business challenges with practical, scalable solutions.
