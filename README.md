@@ -1,7 +1,7 @@
 ### Antonio Thomacelli
-***Software Engineer | Cloud & Full Stack Consultant***
-I’m a software engineer with 15+ years of experience helping companies design, build, and scale digital products.
-As a consultant (PJ), I focus on delivering end-to-end solutions, from backend and frontend development to cloud infrastructure and automation.
+***Software Engineer | Cloud & Full Stack Consultant***<br />
+I’m a software engineer with 15+ years of experience helping companies design, build, and scale digital products.<br />
+As a consultant (PJ), I focus on delivering end-to-end solutions, from backend and frontend development to cloud infrastructure and automation.<br />
 
 ### My expertise includes:
 - ***Backend & Infrastructure:*** Go, PostgreSQL, Docker Compose, Kubernetes, Terraform, AWS & GCP
@@ -10,11 +10,12 @@ As a consultant (PJ), I focus on delivering end-to-end solutions, from backend a
 - I combine technical depth with a business-oriented mindset, ensuring fast delivery, maintainability, and cost efficiency.
 
 ### 🔍 ***Services & Interests***
-Cloud-native architecture design (Kubernetes, Helm, Istio)
-Infrastructure as Code & automation pipelines
-Full stack development with Go + React
-AI solutions with TensorFlow
-Consulting for companies seeking scalability and modernization
+- Cloud-native architecture design (Kubernetes, Helm, Istio)
+- Infrastructure as Code & automation pipelines
+- Full stack development with Go + React
+- AI solutions with TensorFlow
+<br />
+Consulting for companies seeking scalability and modernization<br />
 📫 ***Let’s connect: antoniothomacelli@gmail.com***
 
 ### 🏆 ***Certifications***
@@ -25,4 +26,5 @@ Consulting for companies seeking scalability and modernization
 - TensorFlow – Neural Network Builder
 
 ### 📌 ***Pinned Projects***
-Here you’ll find projects that demonstrate my work in cloud consulting, software engineering, and AI development, reflecting how I approach real-world business challenges with practical, scalable solutions.
+Here you’ll find projects that demonstrate my work in cloud consulting,<br />
+software engineering, and AI development, reflecting how I approach real-world business challenges with practical, scalable solutions.
